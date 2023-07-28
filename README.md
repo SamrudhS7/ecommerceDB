@@ -1,7 +1,7 @@
 # ecommerceDB
 A CLI based Ecommerce database system built entirely on Python.
 USER MANUAL
-Welcome to the Abstergo Ecommerce System! This guide will walk you through the usage of our CLIbased tool, designed to provide a seamless shopping experience for customers while offering robust 
+Welcome to the Abstergo Ecommerce System! This guide will walk you through the usage of our CLI based tool, designed to provide a seamless shopping experience for customers while offering robust 
 management capabilities for admin users.
 With our system, customers can easily log in, perform various shopping operations such as 
 purchasing products, accessing order history, and reviewing consumption reports. Admin users play a 
